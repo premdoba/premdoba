@@ -56,19 +56,39 @@ Currently, I am improving my **DSA skills**, exploring **system design**, and st
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Dictionary App
-A fast and user-friendly dictionary application with a clean UI and quick search experience.  
-**Repository:** https://github.com/premdoba  
+### 🤖 QuickNotes AI
+An AI-powered Android study companion built with **Kotlin** and **Jetpack Compose** that generates smart study notes, summaries, MCQs, and quizzes from topics or uploaded PDFs/images. Features include Firebase Authentication, Room Database, ML Kit OCR, AI-powered doubt solving, offline history, study planner with reminders, and a clean MVVM + Clean Architecture.
+\
+**Tech:** Kotlin • Jetpack Compose • Firebase • Room • Hilt • ML Kit • Gemini AI • MVVM • Clean Architecture
+\
+**Repository:** https://github.com/premdoba/Quick-Notes-AI
 
-### VoiceUp App
-A voice-based learning / communication application designed for smooth interaction.  
-**Repository:** https://github.com/premdoba  
+---
 
-### LeetCode Solutions
-A collection of DSA solutions solved regularly to improve problem-solving skills.  
-**Repository:** https://github.com/premdoba  
+### 🎙️ VoiceUp App
+A modern Android application developed using **Kotlin**, **Jetpack Compose**, Firebase, and MVVM architecture to provide an intuitive communication and learning experience with a clean Material Design interface.
+\
+**Tech:** Kotlin • Jetpack Compose • Firebase • MVVM
+\
+**Repository:** https://github.com/premdoba/VoiceUp
+
+---
+
+### 📖 Dictionary App
+A modern dictionary application built with **Kotlin**, **Jetpack Compose**, and **Retrofit** using MVVM architecture. Search English words and view meanings, phonetics, examples, and parts of speech through a clean and responsive interface.
+\
+**Tech:** Kotlin • Jetpack Compose • Retrofit • MVVM
+\
+**Repository:** https://github.com/premdoba/Dictionary
+
+---
+
+### 💻 LeetCode Solutions
+A collection of **250+ Data Structures & Algorithms** solutions implemented in C++ and Kotlin, covering arrays, strings, linked lists, trees, graphs, dynamic programming, greedy algorithms, and more.
+\
+**Repository:** https://github.com/premdoba/LeetCode
 
 ---
 
